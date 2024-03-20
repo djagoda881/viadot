@@ -39,7 +39,7 @@ setuptools.setup(
         "pyodbc>=4.0.34, <4.1.0",
         "openpyxl==3.0.10",
         "jupyterlab==3.2.4",
-        "azure-identity==1.7.1",
+        "azure-identity==1.11.*",
         "matplotlib",
         "adlfs==2022.9.1",
         "Shapely==1.8.0",
